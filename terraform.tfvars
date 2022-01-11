@@ -1,0 +1,5 @@
+ibmcloud_api_key = "********"
+iaas_classic_username = "shdlgz@hotmail.com"
+iaas_classic_api_key = "********"
+region = "eu-de"
+my_ssh_key_name = "ssh-testing1"
